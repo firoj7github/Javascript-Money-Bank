@@ -1,0 +1,66 @@
+
+/* image part */
+.img-apply{
+    padding-top: 20px;
+    height: 500px;
+}
+
+/* balance,expence,saving part */
+
+.income-part{
+    padding-left: 2px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    color: darksalmon;
+    font-weight: bold;   
+}
+
+.rent{
+    padding-left: 21px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    color: darksalmon;
+    font-weight: bold;
+  
+}
+.food-item{
+    padding-left: 19px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    color: darksalmon;
+    font-weight: bold; 
+}
+.cloth-part{
+    padding-left: 9px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    color: darksalmon;
+    font-weight: bold; 
+}
+.save-input{
+    padding-left: 19px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    color: darksalmon;
+    font-weight: bold; 
+    margin-top: 4px;
+}
+.pop-input{
+    border-radius: 7px;
+    border: 1px solid red;
+    width: 260px;
+    padding-left: 10px;
+    display: none;   
+}
+
+/* our button */
+
+.change-button{
+   margin-left: 100px;
+   margin-bottom: 20px;
+   
+}
+.change-button-2{
+    margin-left: 10px;
+    height: 35px;
+}
